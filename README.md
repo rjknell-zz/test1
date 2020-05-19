@@ -2,5 +2,6 @@
 
 ## Testing testing
 
-Blah blah blah
-Line from terminal
+Blah blah blah  
+Line from terminal  
+Line from RStudio
